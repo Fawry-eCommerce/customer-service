@@ -1,3 +1,3 @@
-# User Service
+# Customer Service
 
-### Service for managing user accounts, authentication, and authorization.
+### Service for managing customer accounts, authentication, and authorization.

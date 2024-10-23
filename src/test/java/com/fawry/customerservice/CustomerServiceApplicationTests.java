@@ -1,10 +1,10 @@
-package com.fawry.userservice;
+package com.fawry.customerservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UserServiceApplicationTests {
+class CustomerServiceApplicationTests {
 
     @Test
     void contextLoads() {
